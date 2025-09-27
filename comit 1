@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Trabajo Práctico N°1 - Fundamentos de Computación</title>
+</head>
+<body>
+    <h1>Trabajo Práctico N°1 - Fundamentos de Computación</h1>
+    <p><strong>Facultad de Ciencia y Tecnología</strong><br>
+    Licenciatura en Sistemas de Información<br>
+    Universidad Autónoma de Entre Ríos (UADER)</p>
+
+    <p><strong>Integrantes:</strong> Tomás Cardozo, Alexis Damonte, Juan Segundo Romani</p>
+    <p><strong>Profesores:</strong> Ismael Cassi y Paolo Orundés Cardinali</p>
+    <p><strong>Fecha:</strong> Septiembre-Octubre 2025</p>
+
+    <h2>Juego seleccionado: Minecraft (Java Edition - TLauncher)</h2>
+    <p>Minecraft es un videojuego de construcción y supervivencia en mundo abierto, desarrollado por Mojang Studios. 
+    Permite jugar en modo supervivencia, creativo y multijugador en línea. 
+    Su éxito se debe a la libertad creativa, la comunidad activa y la posibilidad de modificarlo con mods.</p>
+
+    <h2>Comparación con Fortnite</h2>
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr>
+            <th>Aspecto</th>
+            <th>Minecraft (TLauncher)</th>
+            <th>Fortnite</th>
+        </tr>
+        <tr>
+            <td>Género</td>
+            <td>Sandbox, supervivencia, construcción libre</td>
+            <td>Battle Royale, shooter, construcción libre</td>
+        </tr>
+        <tr>
+            <td>Gráficos</td>
+            <td>Estilo voxel, bajo consumo</td>
+            <td>Estilo realista/cartoon, alto consumo</td>
+        </tr>
+        <tr>
+            <td>Requerimientos</td>
+            <td>Bajos, incluso en PCs viejas</td>
+            <td>Medios/altos, necesita GPU dedicada</td>
+        </tr>
+        <tr>
+            <td>Comunidad</td>
+            <td>Mods, servidores privados, multiplataforma</td>
+            <td>Competitivo, actualizaciones constantes</td>
+        </tr>
+        <tr>
+            <td>Streaming</td>
+            <td>Fácil de streamear en 720p</td>
+            <td>Exige mejor hardware para 1080p</td>
+        </tr>
+    </table>
+
+    <p><strong>Conclusión:</strong> Minecraft es más accesible en hardware y apto para streaming económico, mientras que Fortnite exige mayor inversión para calidad similar.</p>
+
+    <h2>Requerimientos de Minecraft (Java Edition)</h2>
+    <h3>Mínimos (720p, 30fps, gráficos bajos):</h3>
+    <ul>
+        <li>CPU: Intel Core i3-3210 / AMD A8-7600</li>
+        <li>GPU: Intel HD Graphics 4000 / AMD Radeon R5</li>
+        <li>RAM: 4 GB</li>
+        <li>Almacenamiento: 1 GB libre</li>
+        <li>Sistema Operativo: Windows 10/11 64-bit</li>
+    </ul>
+
+    <h3>Recomendados (1080p, 60fps, gráficos medios/altos):</h3>
+    <ul>
+        <li>CPU: Intel Core i5-4690 / Ryzen 5 1400</li>
+        <li>GPU: Nvidia GTX 1650 / AMD Radeon RX 570</li>
+        <li>RAM: 8 GB o más</li>
+        <li>Almacenamiento: SSD con al menos 4 GB libres</li>
+        <li>Sistema Operativo: Windows 10/11 64-bit</li>
+    </ul>
+
+    <h2>Imágenes del juego</h2>
+    <p>A continuación se muestran capturas ilustrativas de Minecraft:</p>
+
+    <img src="ImagendMncft2.png" alt="Captura de Minecraft 1" width="600"><br><br>
+    <img src="ImagendMncft3.png" alt="Captura de Minecraft 2" width="600">
+
+</body>
+</html>
