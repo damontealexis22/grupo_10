@@ -82,6 +82,422 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Segundo Commit - Presupuesto Individual - Juan Segundo Romani</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        h1 { color: #0056b3; border-bottom: 2px solid #0056b3; padding-bottom: 5px; }
+        h2 { color: #333; margin-top: 20px; }
+        h3 { color: #555; border-left: 5px solid #ccc; padding-left: 10px; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .alternativa {
+            color: #880000;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Segundo Commit - Presupuesto Individual y Análisis - Juan Segundo Romani</h1>
+        <p><strong>Integrante:</strong> Juan Segundo Romani  47463220</p>
+        <p><strong>Juego Seleccionado:</strong> Minecraft Java Edition (TLauncher)</p>
+        <hr>
+    </header>
+
+    <section>
+        <h2>Ficha Técnica Individual: Propuesta de Equipo para Streaming</h2>
+        <p><strong>Presupuesto Máximo Permitido:</strong> 1000 USD. (Tipo de Cambio Referencial: 1 USD = AR$ 1300)</p>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Componente</th>
+                    <th>Elección Propuesta</th>
+                    <th>Especificaciones Técnicas Relevantes</th>
+                    <th>Precio (AR$)</th>
+                    <th>Precio (USD)</th>
+                    <th>Fuente (Tienda Oficial Argentina)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>CPU (Procesador)</td>
+                    <td>AMD Ryzen 5 5600GT</td>
+                    <td>6 Núcleos / 12 Hilos, 4.6GHz, Gráficos Integrados Radeon</td>
+                    <td>$202.999</td>
+                    <td>156.15</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Placa Madre</td>
+                    <td>Gigabyte A520M-K V2 AM4</td>
+                    <td>Chipset A520 (entrada), Socket AM4</td>
+                    <td>$81.399</td>
+                    <td>62.61</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Memoria RAM</td>
+                    <td>2 x Hiksemi DDR4 8Gb 3200Mhz</td>
+                    <td>16GB Total (Dual Channel), 3200Mhz</td>
+                    <td>$60.980</td>
+                    <td>46.91</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Almacenamiento</td>
+                    <td>SSD 512Gb Hiksemi M.2 NVME</td>
+                    <td>512GB, NVMe (Velocidad alta)</td>
+                    <td>$50.999</td>
+                    <td>39.23</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Placa de Video (GPU)</td>
+                    <td>MSI RTX 3050 Low Profile OC 6Gb</td>
+                    <td>Codificador NVENC, 6GB GDDR6 (Streaming 1080p)</td>
+                    <td>$293.999</td>
+                    <td>226.15</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Cooler CPU</td>
+                    <td>Thermaltake UX150-L ARGB</td>
+                    <td>Disipador de torre (mejora la eficiencia térmica)</td>
+                    <td>$39.990</td>
+                    <td>30.76</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Gabinete</td>
+                    <td>Gamemax Nova N5 Mid Tower ATX RGB</td>
+                    <td>Soporte ATX/mATX, buen flujo de aire</td>
+                    <td>$48.990</td>
+                    <td>37.68</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Fuente de Poder</td>
+                    <td>Gamemax 500W VP-500 80+ Bronze</td>
+                    <td>500W, Certificación 80+ Bronze (Estabilidad)</td>
+                    <td>$65.990</td>
+                    <td>50.76</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Monitor</td>
+                    <td>Hikvision DS-D5022F-1V2 VA FHD 100Hz</td>
+                    <td>22", 1080p, 100Hz</td>
+                    <td>$138.999</td>
+                    <td>106.92</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Sistema de Respaldo</td>
+                    <td>UPS Hikvision DS-UPS600 600VA 360W</td>
+                    <td>600VA / 360W (Respaldo contra cortes de energía)</td>
+                    <td>$65.430</td>
+                    <td>50.33</td>
+                    <td>PC Registrada</td>
+                </tr>
+                <tr>
+                    <td>Mouse</td>
+                    <td>Logitech G203 Lightsync</td>
+                    <td>Sensor gamer confiable (8000 DPI)</td>
+                    <td>$30.889</td>
+                    <td>23.76</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Teclado</td>
+                    <td>Redragon K552 Kumara 2 Sw Red</td>
+                    <td>Mecánico TKL (respuesta rápida para gaming)</td>
+                    <td>$46.339</td>
+                    <td>35.65</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Auriculares</td>
+                    <td>Redragon H120 Ares RGB C/Micrófono</td>
+                    <td>Micrófono esencial para interacción con la audiencia</td>
+                    <td>$25.739</td>
+                    <td>19.80</td>
+                    <td>Venex</td>
+                </tr>
+                <tr>
+                    <td>Cámara</td>
+                    <td>Webcam Genius Hd 1000x</td>
+                    <td>HD, esencial para el streaming</td>
+                    <td>$48.043</td>
+                    <td>36.96</td>
+                    <td>Tecnoenlinea</td>
+                </tr>
+                <tr>
+                    <td>Software Base</td>
+                    <td>OBS Studio</td>
+                    <td>Software de streaming gratuito y estándar</td>
+                    <td>$0</td>
+                    <td>0.00</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td colspan="3"><strong>TOTAL ESTIMADO</strong></td>
+                    <td><strong>AR$ 1.281.314</strong></td>
+                    <td><strong>985.39 USD</strong></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Justificación de Elección de Componentes y Alternativas Descartadas</h2>
+
+        <article>
+            <h3>1. Microprocesador (CPU) - AMD Ryzen 5 5600GT</h3>
+            <p><strong>Justificación:</strong> Se eligió por su excelente relación precio/rendimiento. Con 6 núcleos y 12 hilos, puede manejar eficientemente el juego (Minecraft) y los procesos del sistema, mientras la GPU se encarga del <em>encoding</em>. Su alta velocidad de 4.6 GHz es ideal para Minecraft, que se beneficia de la alta velocidad de un solo núcleo.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Intel Core i3-12100F. Descartado porque solo posee 4 núcleos y 8 hilos, lo cual generaría un cuello de botella al dividir recursos entre el juego, el sistema operativo y el software de streaming.</p>
+        </article>
+
+        <article>
+            <h3>2. Placa Madre - Gigabyte A520M-K V2 AM4</h3>
+            <p><strong>Justificación:</strong> Es una placa de entrada con chipset A520 que garantiza la compatibilidad con el R5 5600GT y las memorias RAM 3200MHz. Es la opción más económica y suficiente para este ensamble, permitiendo destinar más presupuesto a la GPU y RAM, que son críticas para el streaming.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Placa B550 (Gama Media). Descartada por costo. Aunque ofrece funciones como PCIe 4.0, estas no se aprovecharán en este equipo y el gasto adicional restaría dinero de componentes más importantes como la Placa de Video.</p>
+        </article>
+        
+        <article>
+            <h3>3. Memoria RAM - 16GB (2x8GB) DDR4 3200Mhz</h3>
+            <p><strong>Justificación:</strong> 16GB de RAM es el estándar mínimo para hacer streaming con fluidez. La configuración en **Dual Channel** (dos módulos de 8GB) aprovecha mejor la arquitectura de AMD, y la velocidad de 3200 MHz es crucial para maximizar el rendimiento del procesador Ryzen.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> 1 x 16GB DDR4 3200MHz (Single Channel). Descartado porque operar en Single Channel reduciría la velocidad de transferencia de datos. Esto impactaría negativamente en la estabilidad y fluidez del stream al obligar a la CPU a trabajar más lento con la memoria.</p>
+        </article>
+        
+        <article>
+            <h3>4. Almacenamiento - SSD 512Gb Hiksemi M.2 NVME</h3>
+            <p><strong>Justificación:</strong> Elegido por ser una unidad **M.2 NVMe**, que ofrece velocidades de lectura/escritura muy superiores a cualquier SSD SATA. Esto asegura que el sistema operativo, el juego y el software de streaming (OBS) carguen rápidamente, mejorando la experiencia del usuario y el tiempo de inicio del stream. 512GB es suficiente para el SO y el juego elegido.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> SSD SATA de 500GB. Descartado por ser más lento que el NVMe por un precio similar, desperdiciando la capacidad de alta velocidad que ofrece el puerto M.2 de la placa madre.</p>
+        </article>
+
+        <article>
+            <h3>5. Placa de Video (GPU) - MSI RTX 3050 6Gb</h3>
+            <p><strong>Justificación:</strong> Su principal ventaja es el **Codificador NVENC de NVIDIA**. Este hardware dedicado permite al software OBS Studio codificar el video a **1080p a 60 FPS** sin sobrecargar al CPU, garantizando una transmisión estable y de alta calidad. Además, ofrece un excelente rendimiento para Minecraft, incluso con *shaders* moderados.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> AMD Radeon RX 6500 XT. Descartada. Aunque a veces es más económica, su codificador de video (VCE/VCN) no es tan eficiente como el NVENC de NVIDIA, lo cual es crítico para lograr una calidad de streaming óptima con baja latencia.</p>
+        </article>
+        
+        <article>
+            <h3>6. Cooler CPU - Thermaltake UX150-L ARGB</h3>
+            <p><strong>Justificación:</strong> Reemplaza al cooler de stock de AMD. Un cooler de torre mejora la **disipación de calor**, lo cual es vital cuando la CPU trabaja intensamente, tanto en el juego como en procesos generales. Esto mantiene las temperaturas bajas y evita la pérdida de rendimiento durante las sesiones largas de streaming.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Cooler de Stock de AMD. Descartado para el streaming. El cooler de stock no puede manejar la carga de trabajo prolongada del streaming (juego + sistema), elevando las temperaturas y causando una disminución de rendimiento.</p>
+        </article>
+
+        <article>
+            <h3>7. Gabinete - Gamemax Nova N5 Mid Tower ATX RGB</h3>
+            <p><strong>Justificación:</strong> Es un Gabinete Mid Tower que soporta todos los componentes y ofrece un buen espacio para la gestión de cables y, crucialmente, para el **flujo de aire**. Esto es importante para mantener la temperatura baja de la GPU y CPU durante las largas sesiones de streaming.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Gabinete Mini-ITX (muy pequeño). Descartado por restringir el flujo de aire y hacer difícil la instalación del cooler y la GPU. Un buen flujo de aire es prioritario para evitar el sobrecalentamiento.</p>
+        </article>
+
+        <article>
+            <h3>8. Fuente de Poder - Gamemax 500W VP-500 80+ Bronze</h3>
+            <p><strong>Justificación:</strong> Con 500W, ofrece suficiente energía para el consumo bajo de la RTX 3050 y el Ryzen 5. La certificación **80 Plus Bronze** garantiza una eficiencia energética decente y proporciona protecciones eléctricas esenciales para la estabilidad del sistema.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Fuente Genérica Sin Certificación. Estas fuentes son ineficientes y peligrosas, ya que carecen de protecciones eléctricas y podrían dañar los componentes caros del equipo por variaciones de voltaje. El ahorro no justifica el riesgo.</p>
+        </article>
+
+        <article>
+            <h3>9. Monitor - Hikvision DS-D5022F-1V2 VA FHD 100Hz</h3>
+            <p><strong>Justificación:</strong> Un monitor de 22 pulgadas con resolución **Full HD (1080p)** es el estándar para streaming. Los **100Hz** proporcionan una experiencia de juego más fluida que los 60Hz tradicionales, lo cual mejora la capacidad de reacción del streamer en el juego.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Monitor 720p o 144Hz. Descartado. 720p no cumple con la calidad visual esperada para el streaming. 144Hz es más costoso y, aunque preferible, no es esencial para Minecraft en un presupuesto inicial.</p>
+        </article>
+        
+        <article>
+            <h3>10. Sistema de Respaldo - UPS Hikvision DS-UPS600</h3>
+            <p><strong>Justificación:</strong> La UPS cumple directamente con el requisito de **prever alternativas de seguir en línea ante cortes de energía eléctrica, por unos minutos**. Permite al streamer terminar la transmisión y apagar el equipo de forma segura, protegiendo el hardware y la imagen con la audiencia.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> No Contar con Respaldo. Descartado, ya que el enunciado exige una alternativa de respaldo. Un apagón repentino puede dañar el hardware, corromper archivos y arruinar la experiencia del stream, por lo que este componente es obligatorio.</p>
+        </article>
+
+        <article>
+            <h3>11. Mouse - Logitech G203 Lightsync</h3>
+            <p><strong>Justificación:</strong> Es un mouse **gamer de nivel de entrada** con un sensor óptico confiable (8000 DPI). Su precisión y durabilidad son superiores a un mouse de oficina, ofreciendo la respuesta rápida necesaria para jugar Minecraft de manera cómoda.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Mouse Óptico de Oficina Genérico. Baja precisión y tasa de sondeo (polling rate), lo que causaría movimientos imprecisos y lentitud en el juego, afectando la experiencia del streamer.</p>
+        </article>
+
+        <article>
+            <h3>12. Teclado - Redragon K552 Kumara 2 Sw Red</h3>
+            <p><strong>Justificación:</strong> Es un teclado **mecánico TKL**. La tecnología mecánica ofrece una respuesta táctil y velocidad de actuación superiores (interruptores Red) que la membrana. Su formato TKL ahorra espacio, facilitando el movimiento del mouse.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Teclado de Membrana. Respuesta lenta, sensación gomosa e inconsistente, no ideal para *gaming* o sesiones de uso prolongadas, lo que es esencial para la comodidad.</p>
+        </article>
+        
+        <article>
+            <h3>13. Auriculares - Redragon H120 Ares RGB C/Micrófono</h3>
+            <p><strong>Justificación:</strong> Solución integrada de auricular/micrófono para la interacción básica con la audiencia y monitoreo del audio del juego/stream. El micrófono incluido garantiza que el audio del *streamer* sea claro, lo cual es crucial para la calidad de la transmisión.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Micrófono de Solapa. Descartado porque no permite escuchar el audio del juego/stream al mismo tiempo, y capta más ruido ambiente que un micrófono de diadema cerrado.</p>
+        </article>
+
+        <article>
+            <h3>14. Cámara - Webcam Genius Hd 1000x</h3>
+            <p><strong>Justificación:</strong> La cámara es crucial para la **conexión visual con la audiencia**. Este modelo ofrece una calidad **HD** adecuada para un *stream* inicial dentro del presupuesto ajustado. Fue elegida por ser la opción más económica que cumple con el requisito de ser un periférico necesario.</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> Cámara Web Full HD (1080p) de Marca Superior. Descartada por ser significativamente más cara (costo de 80-100 USD+), lo que obligaría a degradar un componente más vital (como la GPU o RAM) para compensar el costo.</p>
+        </article>
+
+        <article>
+            <h3>15. Software Base - OBS Studio</h3>
+            <p><strong>Justificación:</strong> Es el software de *streaming* más popular, potente y, crucialmente, es **GRATUITO**. Soporta perfectamente el codificador NVENC de la RTX 3050, lo que facilita el *streaming* de alta calidad (1080p).</p>
+            <p class="alternativa"><strong>Alternativa Descartada:</strong> XSplit Broadcaster (versión paga). Descartado porque el presupuesto de 1000 USD se debe enfocar en hardware esencial. Además, OBS Studio ofrece todas las funcionalidades necesarias de forma gratuita.</p>
+        </article>
+
+    </section>
+
+    <section>
+        <h2>Análisis de Rendimiento Esperado</h2>
+
+        <h3>FPS Aproximados para Minecraft Java</h3>
+        <p>EL rendimiento esperado es el siguiente:</p>
+        <ul>
+            <li><strong>Minecraft Java (Vanilla/Normal):</strong> Se esperan <strong>150+ FPS</strong> estables a 1080p, superando ampliamente el mínimo de 60 FPS.</li>
+            <li><strong>Minecraft con *Shaders* Moderados:</strong> Se esperan **60 - 80 FPS** estables, lo que permite ofrecer un stream visualmente atractivo sin sacrificar la jugabilidad.</li>
+        </ul>
+
+        <h3>Calidad y Resolución de Transmisión Estimada</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Parámetro</th>
+                    <th>Valor Estimado</th>
+                    <th>Cumplimiento del Requisito</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Calidad de Transmisión</td>
+                    <td>Alta (por uso de NVENC)</td>
+                    <td>La codificación por hardware NVENC reduce la carga del CPU, garantizando estabilidad.</td>
+                </tr>
+                <tr>
+                    <td>Resolución del Stream</td>
+                    <td><strong>1080p</strong></td>
+                    <td>Cumple con la calidad <strong>idealmente 1080p</strong> solicitada en el enunciado[cite: 61, 45].</td>
+                </tr>
+                <tr>
+                    <td>Tasa de Cuadros (*Framerate*)</td>
+                    <td>60 FPS</td>
+                    <td>Asegura un movimiento suave y profesional en la pantalla del espectador.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <footer>
+        <hr>
+    </footer>
+
+</body>
+</html>
 <!doctype html>
 <html lang="es">
 <head>
