@@ -608,3 +608,105 @@
   </div>
 </body>
 </html>
+<section>
+  <h2>2. Tabla comparativa generada con ayuda de IA + validación</h2>
+
+  <h3>Prompt usado:</h3>
+  <p>“Compará el procesador AMD Ryzen 5 5600G con el Intel Core i5-13400 para hacer streaming de Minecraft a 1080p.”</p>
+
+  <h3>Tabla generada por IA:</h3>
+  <table border="1">
+    <tr><th>Característica</th><th>AMD Ryzen 5 5600G</th><th>Intel Core i5-13400</th></tr>
+    <tr><td>Núcleos / Hilos</td><td>6 / 12</td><td>10 (6P + 4E) / 16</td></tr>
+    <tr><td>Frecuencia base</td><td>3.9 GHz</td><td>2.5 GHz</td></tr>
+    <tr><td>Frecuencia turbo</td><td>4.4 GHz</td><td>4.6 GHz</td></tr>
+    <tr><td>GPU integrada</td><td>Radeon Vega 7</td><td>Intel UHD 730</td></tr>
+    <tr><td>Consumo (TDP)</td><td>65 W</td><td>65 W</td></tr>
+    <tr><td>Precio aprox.</td><td>USD 180</td><td>USD 250</td></tr>
+    <tr><td>FPS en Minecraft (1080p sin shaders)</td><td>~180 FPS</td><td>~200 FPS</td></tr>
+    <tr><td>FPS en Minecraft (con shaders + streaming)</td><td>~90 FPS</td><td>~100 FPS</td></tr>
+    <tr><td>Ideal para streaming sin GPU dedicada</td><td>✅ Sí</td><td>⚠ Mejor con GPU dedicada</td></tr>
+  </table>
+
+  <h3>Validación externa:</h3>
+  <p>Fuente: <a href="https://www.techpowerup.com/cpu-specs/ryzen-5-5600g.c2410">TechPowerUp</a> y <a href="https://www.intel.com">Intel</a>. Los datos de núcleos, frecuencias y TDP coinciden con los oficiales.</p>
+
+  <h3>Conclusión:</h3>
+  <p>El Ryzen 5 5600G ofrece una mejor relación costo/rendimiento para streaming de Minecraft, gracias a su GPU integrada Vega 7 que permite transmitir sin placa de video dedicada. Es la opción más equilibrada dentro del presupuesto.</p>
+</section>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conclusiones Finales - Trabajo Práctico</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f8f9fa;
+            color: #222;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        img {
+            display: block;
+            margin: 0 auto 30px auto;
+            max-width: 80%;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Trabajo Práctico - Fundamentos de Computación</h1>
+
+        <img src="8746ee9a-fec3-4b24-94eb-dbcb8ebaf1bb.jpg" alt="Imagen IA de streaming">
+
+        <h2>Prompt utilizado</h2>
+        <p>
+            Genera una imagen de una persona haciendo streaming con una PC económica, jugando Minecraft.
+        </p>
+
+        <p>
+            Se quiso transmitir la esencia del gameplay y el streaming con una imagen de un joven jugando a uno de los juegos más famosos y emblemáticos del siglo.
+        </p>
+
+        <h2>Conclusiones finales</h2>
+
+        <p><strong>¿Cómo te ayudó la IA en este trabajo?</strong></p>
+        <p>
+            La IA nos ayudó bastante en este trabajo para hacer el código en HTML, para pedirle opiniones sobre diferentes componentes que podíamos elegir, para la utilización de GitHub y entender mejor cómo usarlo. En sí, la IA fue una gran herramienta muy útil e indispensable en la realización del trabajo práctico.
+        </p>
+
+        <p><strong>¿Detectaste errores o información poco confiable? ¿Cómo lo resolviste?</strong></p>
+        <p>
+            No detectamos errores, ya que han ido actualizando la IA haciéndola cada vez mejor y más confiable para los usuarios.
+        </p>
+
+        <p><strong>¿En qué casos preferís buscar información manualmente en lugar de usar IA?</strong></p>
+        <p>
+            Preferimos buscar la información de otras fuentes en situaciones en las que queramos asegurar más la información si hace falta, también cuando se necesite saber la información más actual posible, cosa que la IA a veces no sabe por tener información un poco más vieja.
+        </p>
+    </div>
+
+</body>
+</html>
